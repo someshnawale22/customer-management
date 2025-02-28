@@ -4,7 +4,7 @@ import lombok.*;
 
 import javax.persistence.Embeddable;
 /*
- * Address class represents the address details of a customer
+ * Address class represents the address details of a customer.
  * Author: Somesh Nawale
  */
 @Embeddable
