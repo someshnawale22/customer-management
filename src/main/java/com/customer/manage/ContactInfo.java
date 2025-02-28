@@ -4,7 +4,7 @@ package com.customer.manage;
 import lombok.*;
 
 /*
- * ContactInfo class represents the secondary contact details of a customer.
+ * ContactInfo class represents the secondary contact details of a customer
  * Author: Somesh Nawale
  */
 import javax.persistence.Embeddable;
