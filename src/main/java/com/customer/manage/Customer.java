@@ -12,7 +12,7 @@ import org.hibernate.annotations.Type;
 
 /*
  * Customer class represents the details of a customer including their contact information,
- * address, and personal information.
+ * address, and personal information
  * Author: Somesh Nawale
  */
 
