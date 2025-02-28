@@ -1,6 +1,12 @@
 # Customer Management System
 This is a Spring Boot application designed to manage customer information. It provides a RESTful API with capabilities to create, read, update, and delete customer records. The application uses an H2 in-memory database for data persistence and is secured with basic authentication.
 
+# Swagger URL:
+
+**http://localhost:8080/swagger-ui/index.html#/**
+
+**username : admin passowrd : admin123**
+
 # Features
 
 **CRUD Operations:** Manage customer records with operations to create, read, update, and delete.
